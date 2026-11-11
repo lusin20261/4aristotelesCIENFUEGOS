@@ -1,0 +1,6 @@
+a=input ("ingresa tu numero")
+b=input("ingresa tu segundo numero")
+a=int(a)
+b=int(b)
+print ( "la multiplicación",b*a )
+print("la divición de" ,b/a)
